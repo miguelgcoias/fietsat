@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "start": "Braga",
+    "end": "Coimbra"
+  },
+  {
+    "id": 2,
+    "start": "Aveiro",
+    "end": "Coimbra"
+  },
+  {
+    "id": 3,
+    "start": "Bragança",
+    "end": "Aveiro"
+  },
+  {
+    "id": 4,
+    "start": "Faro",
+    "end": "Évora"
+  },
+  {
+    "id": 5,
+    "start": "Faro",
+    "end": "Braga"
+  },
+  {
+    "id": 6,
+    "start": "Coimbra",
+    "end": "Évora"
+  },
+  {
+    "id": 7,
+    "start": "Guarda",
+    "end": "Aveiro"
+  },
+  {
+    "id": 8,
+    "start": "Guarda",
+    "end": "Faro"
+  },
+  {
+    "id": 9,
+    "start": "Évora",
+    "end": "Guarda"
+  },
+  {
+    "id": 10,
+    "start": "Castelo Branco",
+    "end": "Braga"
+  }
+]
